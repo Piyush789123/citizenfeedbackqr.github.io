@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-rvl&#+wpho1x9m6^tkt!iyvc098gq(&=@*l0^ssz3dxpd*4_xc'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','piyush789123.github.io/citizenfeedbackqr.github.io']
 
 
 # Application definition
